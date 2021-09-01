@@ -1,7 +1,7 @@
 ### ✨ hello! ✨
 
-I'm Rachel (she/her). I'm a grad student at [Penn](https://www.seas.upenn.edu/).
+I'm Rachel (she/her). 
 
-🌱 new to code
+🌱 learning CS at [Penn](https://www.seas.upenn.edu/)
 
 🔬 previously in education + language development research at [NYU](https://steinhardt.nyu.edu/)
