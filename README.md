@@ -1,6 +1,6 @@
 ### ✨ hello! ✨
 
-I'm Rachel (she/her). I'm an incoming grad student at [Penn](https://www.seas.upenn.edu/).
+I'm Rachel (she/her). I'm a grad student at [Penn](https://www.seas.upenn.edu/).
 
 🌱 new to code
 
