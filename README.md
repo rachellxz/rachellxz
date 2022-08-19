@@ -1,6 +1,6 @@
 <p align="left">
     <samp>
-      <b> Hi there, I'm Rachel! ✨ </b> 
+      <b> Hi there, I'm Rachel! ✨ </b> (she/her)
       <br> 
       ~
       <br>
