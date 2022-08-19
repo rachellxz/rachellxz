@@ -1,5 +1,4 @@
 <p align="left">
-    <br><br>
     <samp>
       <b> Hi there, I'm Rachel! ✨ </b> 
       <br> 
