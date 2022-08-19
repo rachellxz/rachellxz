@@ -1,4 +1,4 @@
-### hi there, I'm Rachel! ✨
+## hi there, I'm Rachel! ✨
 
 🌱 Computer science student at The University of Pennsylvania
 
