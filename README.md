@@ -11,5 +11,6 @@
     <br> ⚡ Check out my personal website: <a href="https://rachel.dev" target="_blank">rachel.dev</a>
   </samp>
   <br><br>
-      <img src="https://user-images.githubusercontent.com/60834076/185647560-c28707bd-d671-4340-86f0-ca9519cd4359.gif" width="200px" align="center">
+      <img src="https://user-images.githubusercontent.com/60834076/190483314-6ddc2908-1ed9-4690-acd8-30348a6fdd65.gif" width="200px" align="center">
 </p>
+
